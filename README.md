@@ -1,2 +1,2 @@
-# AI-less-OS-Project
-Looking for OS developers to make my dream OS instead of AI. AI generated OSes are shit.
+# Even though i have "meme guy" in my name, this a serious projecty
+>:3
